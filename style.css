@@ -1,16 +1,19 @@
 /* General Styling */
 body {
-    margin: 0;
-    font-family: 'Arial', sans-serif;
+    margin:0px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: #333;
-    background: #f4f4f9;
+    /* background: #f4f4f9; */
+    background-image: url("");
 }
 header {
-    background: #ffa500;
-    color: white;
+
+    /* background: #ffb700; */
+    background-image: url("");
+    color: rgb(226, 95, 95);
     padding: 20px 10px;
     text-align: center;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 4px 6px rgba(161, 12, 12, 0.2);
 }
 header .logo {
     font-size: 2.5rem;
@@ -28,27 +31,35 @@ nav ul li {
     margin: 0 15px;
 }
 nav ul li a {
-    color: white;
+    color: black;
+    font-style: oblique;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 1000;
     text-decoration: none;
-    font-size: 1.1rem;
+    font-size: 1.3rem;
     transition: color 0.3s ease;
 }
 nav ul li a:hover {
-    color: #343a40;
+    color: #b812a2;
 }
 /* Hero Section */
 .hero {
-    background: linear-gradient(120deg, #ffa500, #ff7f50);
+    background: linear-gradient(120deg, #0022ff, #b0ff50);
     color: white;
     text-align: center;
     padding: 50px 20px;
 }
 .hero h2 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 2.5rem;
+    font-style: oblique;
+    font-display:initial;
     margin-bottom: 10px;
 }
 .hero p {
-    font-size: 1.2rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: inherit;
+    font-size: 2cap;
     margin-bottom: 20px;
 }
 .hero .btn {
@@ -89,6 +100,7 @@ nav ul li a:hover {
     font-size: 1.5rem;
     margin-bottom: 10px;
     color: #ffa500;
+    transform: rotate(1);
 }
 .feature-box p {
     margin-bottom: 15px;
@@ -107,15 +119,15 @@ nav ul li a:hover {
 }
 /* Footer */
 footer {
-    background: #333;
-    color: white;
+    color: black;
     padding: 15px;
     text-align: center;
     margin-top: 20px;
+    transform: translate3d(11.5rem);
 }
 footer a {
-    color: #ffa500;
-    text-decoration: none;
+    color: blueviolet;
+    text-decoration:dashed;
     margin: 0 10px;
 }
 footer a:hover {
