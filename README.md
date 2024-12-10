@@ -24,6 +24,7 @@ Technologies Used
 Sections of the Website
 
 The website is divided into several key sections, each focusing on a specific nutrient. Here’s an outline of the sections:
+
 	1.	Protein:
 	•	Importance of protein for muscle growth, immune system support, and tissue repair.
 	•	Suggested protein-rich foods like meat, legumes, tofu, and dairy.
