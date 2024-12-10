@@ -45,7 +45,6 @@ body {
     background-color: rgba(0, 0, 0, 0.6);
     padding: 15px 0;
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
-    position: sticky;
     top: 0;
 }
 
@@ -98,21 +97,20 @@ section:hover {
     box-shadow: 0 15px 35px rgba(0, 0, 0, 0.4);
 }
 
-/* Heading Styles */
+/* Heading*/
 h2 {
     font-size: 2.5rem;
     text-align: center;
     margin-bottom: 20px;
     color: #ff6b6b;
     letter-spacing: 1px;
-    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5); /* Slightly adjusted text-shadow */
-    padding: 0 10px; /* Added padding to prevent any potential overlapping issues */
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5); 
+    padding: 0 10px;
 }
 
-/* Adjust font size for smaller screens for better responsiveness */
 @media (max-width: 768px) {
     h2 {
-        font-size: 2rem; /* Adjust font size for smaller screens */
+        font-size: 2rem;
     }
 }
 
