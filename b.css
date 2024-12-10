@@ -148,26 +148,6 @@ section ul li::before {
     font-weight: bold;
 }
 
-footer {
-    background: #1c1c1c;
-    text-align: center;
-    padding: 30px 20px;
-    color: #aaa;
-    font-size: 0.9rem;
-    border-top: 2px solid #333;
-}
-
-footer a {
-    color: #4caf50;
-    text-decoration: none;
-    font-weight: bold;
-    transition: color 0.3s ease-in-out;
-}
-
-footer a:hover {
-    color: #81c784;
-}
-
 @keyframes fadeIn {
     from {
         opacity: 0;
