@@ -12,10 +12,14 @@ Features
 	•	User-Friendly Design: Clean and simple layout, making it easy for visitors to navigate the content.
 	•	Responsive Design: The website is designed to be fully responsive, ensuring a smooth experience on all screen sizes, from mobile devices to desktop.
 
+
+
 Technologies Used
 	•	HTML: For structuring the content and creating the webpage.
 	•	CSS: For styling the website, creating a visually appealing and user-friendly layout.
 	•	Google Fonts: For font styling to make the content visually engaging.
+
+
 
 Sections of the Website
 
@@ -24,17 +28,25 @@ The website is divided into several key sections, each focusing on a specific nu
 	•	Importance of protein for muscle growth, immune system support, and tissue repair.
 	•	Suggested protein-rich foods like meat, legumes, tofu, and dairy.
 	•	Recommended intake based on age, gender, and activity level.
+
+
 	2.	Carbohydrates:
 	•	Explains how carbohydrates provide energy to the body and aid in brain function.
 	•	Sources of carbohydrates like whole grains, fruits, vegetables, and legumes.
 	•	Daily carbohydrate intake suggestions according to age and lifestyle.
+
+
 	3.	Fats:
 	•	The vital role fats play in maintaining cell function, hormone production, and brain health.
 	•	Healthy fat sources, including avocados, nuts, seeds, and olive oil.
 	•	Recommendations for fat intake, differentiating between healthy and unhealthy fats.
+
+
 	4.	Minerals:
 	•	Importance of minerals like calcium, iron, magnesium, and potassium for bone health, blood circulation, and muscle function.
 	•	Suggested food sources for each mineral (e.g., dairy, leafy greens, red meat).
+
+
 	•	Mineral intake based on age group and gender.
 	5.	Vitamins:
 	•	The role of vitamins (A, B, C, D, E, K) in immune support, skin health, energy production, and bone strength.
